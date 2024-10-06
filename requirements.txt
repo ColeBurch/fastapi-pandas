@@ -1,0 +1,6 @@
+ruff
+jupyterlab
+fastapi[standard]
+pandas
+python-dotenv
+psycopg2
